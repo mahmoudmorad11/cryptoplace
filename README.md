@@ -1,4 +1,4 @@
-# 🪙 CryptoPlace
+# 💲CryptoPlace
 
 A clean and responsive cryptocurrency tracker built with **React** and deployed on **Vercel**. This project allows users to view a full list of cryptocurrencies, search for specific ones, and filter results dynamically — all in a sleek, minimalist interface.
 
