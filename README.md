@@ -46,19 +46,32 @@ Live demo 👉 https://cryptoplace-git-master-mahmoud-morads-projects.vercel.app
 
 <pre>
 ├── src/
+│   ├── App.jsx
+│   ├── file.js
+│   ├── index.css
+│   ├── main.jsx
+│   ├── assets/
+│   │   ├── arrow_icon.png
+│   │   └── logo.png
 │   ├── components/
-│   │   ├── Button.tsx
-│   │   ├── Card.jsx
-│   │   └── styles.css
-│   ├── App.tsx
-│   └── index.js
-├── public/
-│   ├── index.html
-│   └── favicon.ico
+│   │   ├── Footer.jsx
+│   │   ├── Navbar.jsx
+│   │   ├── index.js
+│   │   └── LineChart/
+│   │       └── LineChart.jsx
+│   ├── context/
+│   │   └── coinContext.jsx
+│   └── pages/
+│       ├── Coin/
+│       │   ├── Coin.css
+│       │   └── Coin.jsx
+│       └── Home/
+│           ├── Home.css
+│           └── Home.jsx
+├── index.html
+├── vite.config.js
 ├── package.json
-├── README.md
-├── .env
-└── tsconfig.json
+└── README.md
 </pre>
 
 ---
