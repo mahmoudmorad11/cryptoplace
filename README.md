@@ -45,15 +45,20 @@ Live demo 👉 https://cryptoplace-git-master-mahmoud-morads-projects.vercel.app
 ## 📂 Project Structure
 
 <pre>
-├── public/             
 ├── src/
-│   ├── components/     
-│   ├── assets/          
-│   ├── App.js          
-│   └── index.js        
-├── tailwind.config.js
+│   ├── components/
+│   │   ├── Button.tsx
+│   │   ├── Card.jsx
+│   │   └── styles.css
+│   ├── App.tsx
+│   └── index.js
+├── public/
+│   ├── index.html
+│   └── favicon.ico
 ├── package.json
-└── README.md
+├── README.md
+├── .env
+└── tsconfig.json
 </pre>
 
 ---
