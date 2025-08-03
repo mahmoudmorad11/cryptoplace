@@ -18,8 +18,7 @@ Live demo 👉 https://cryptoplace-git-master-mahmoud-morads-projects.vercel.app
 - 📊 Interactive data table with crypto prices and info  
 - 🧹 Table resets with one click  
 - ⚛️ Built using **React**  
-- 🎨 Styled with **Tailwind CSS**  
-- 📱 Fully responsive (mobile-friendly)  
+- 🎨 Styled with **Tailwind CSS**
 - ⚡ Fast deployment on Vercel  
 
 ---
